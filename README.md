@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Tahaa Farooq , I am 17 years old, A cybersecurity researcher , programmer, and a developer(web & app), and currently I'm learning about 🌱 Malware Analysis 🌱 , to brief things up , I am a highschool student and a part time cybersecurity consultant at H4K-IT Consultancy, also love playing CTFs alot , you can read some of my writeups here ![tahaafarooq](https://hackmd.io/@tahaafarooq) about cybersecurity and some of my findings such as ![EDB-ID:50509](https://www.exploit-db.com/exploits/50509) , I am also the founder and leader of `Urchinsec` CTF team , and a security researching team which is ofcourse multi-national team , if interested to joining or learning more about us shoot at ![twitter-urchinsec](https://twitter.com/urchinsec_) or ![mail-urchinsec](urchinsec@protonmail.com)
+My name is Tahaa Farooq , I am 17 years old, A cybersecurity researcher , programmer, and a developer(web & app), and currently I'm learning about 🌱 Malware Analysis 🌱 , to brief things up , I am a highschool student and a part time cybersecurity consultant at H4K-IT Consultancy, also love playing CTFs alot , you can read some of my writeups here !https://hackmd.io/@tahaafarooq about cybersecurity and some of my findings such as https://www.exploit-db.com/exploits/50509, I am also the founder and leader of `Urchinsec` CTF team , and a security researching team which is ofcourse multi-national team , if interested to joining or learning more about us shoot at https://twitter.com/urchinsec_ or urchinsec@protonmail.com
 
 #### Reach out to me:)
 
-📫  - ![email](tahacodez@gmail.com)
-📫  - ![twitter](https://twitter.com/tahaafarooq)
+📫  - tahacodez@gmail.com
+
+📫  - https://twitter.com/tahaafarooq
+
 📫  - Discord : tahaafarooq#9056
