@@ -1,25 +1,15 @@
-### Hi 👋
+## Hi There 👋
 ![5MsbwTxn_400x400](https://user-images.githubusercontent.com/49201347/151577960-49f42ab7-7f9d-4a3b-9abe-84a57e77ba1d.jpg)
 <!--
 **tahaafarooq/tahaafarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-My name is Tahaa Farooq , I am 18 years old, A cybersecurity researcher , programmer, developer(web & app), and malware analyst , I am part time cybersecurity consultant at H4K-IT Consultancy, also love playing CTFs alot , you can read some of my writeups here !https://hackmd.io/@tahaafarooq about cybersecurity and some of my findings such as https://www.exploit-db.com/exploits/50509, I am also the founder and leader of `Urchinsec` CTF team , and a security researching team which is of course multi-national team , if interested to joining or learning more about us shoot at https://twitter.com/urchinsec_ or urchinsec@protonmail.com
 
-#### Reach out to me:)
+My name is Tahaa Farooq
 
-📫  - tahacodez@gmail.com
+- 🔭 I’m a programmer , developer , and security researcher
+- 🌱 I’m currently learning malware analysis and exploit development
+- 💬 Ask me about security and imma pewpew
+- 📫 How to reach me: [twitter](https://twitter.com/tahaafarooq)
+- ⚡ Fun fact: I'm noob
 
-📫  - https://twitter.com/tahaafarooq
-
-📫  - Discord : tahaafarooq#9056
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahaafarooq&date_format=M%20j%5B%2C%20Y%5D&background=1F2544&border=B72BDD&dates=A5A5A5&sideLabels=BEBEBE&currStreakNum=FFFFFF&sideNums=DDDDDD&ring=B72BDDE2&fire=B72BDD&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
