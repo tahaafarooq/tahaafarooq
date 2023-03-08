@@ -4,5 +4,6 @@
 
 #### 💡 Talk to me about
 - Malware Analysis
-- Hardwares
+- Hardware Hacking
+- Exploitation
 - Cryptography
