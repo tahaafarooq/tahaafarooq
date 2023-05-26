@@ -7,3 +7,4 @@
 - Hardware Hacking
 - Exploitation
 - Cryptography
+- Programming
